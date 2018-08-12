@@ -12,11 +12,3 @@ Here are the results of the network on validation images from the Places365 Data
 Here, we use the network to colorize a black-and-white Charlie Chaplin film. The model is applied frame-by-frame, with no temporal smoothing applied:
 
 [![Colorizing Charlie Chaplin](https://github.com/lukemelas/Automatic-Image-Colorization/blob/master/charlie.jpg)](https://www.youtube.com/watch?v=LluZarKPY-o)
-
-# Colorize Images
-
-Instructions coming soon...
-
-# Train a Model
-
-Instructions coming soon...
